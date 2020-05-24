@@ -24,7 +24,7 @@ df = pd.read_csv('../../sample_data/02 Introduction to Pandas/intel.csv')
 # print(df.info())
 
 # View open column
-# pen = df['Open']
+# open = df['Open']
 # print(open)
 
 #print(open.head())
